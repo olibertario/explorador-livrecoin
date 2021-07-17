@@ -1,4 +1,4 @@
-Iquidus Explorer - 1.7.4
+Explorer Livrecoin - 1.7.4
 ================
 
 An open source block explorer written in node.js.
@@ -134,7 +134,9 @@ Where [SIZE] is an integer higher than the default.
 ### License
 
 Copyright (c) 2015, Iquidus Technology  
-Copyright (c) 2015, Luke Williams  
+Copyright (c) 2015, Luke Williams
+Copyright (c) 2021, A.Cappelozzi
+
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
